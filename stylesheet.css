@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.main-wrapper{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: rgb(240, 236, 236);
+}
+
+.div-wrapper{
+    margin-left: 210px;
+    margin-right: 210px;
+}
+
+img{
+    margin: 60px;
+    opacity: 0.3;
+    -webkit-transition-property: opacity;
+    -webkit-transition-duration: 2s;
+    transition-property: opacity;
+    transition-duration: 1s;
+}
+
+img:hover{
+    opacity: 1;
+    
+}
+
